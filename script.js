@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const moveHistory = document.getElementById('move-history'); 
     let moveCount = 1; 
     let userColor = 'w'; 
+    
 
  // random move 
     const makeRandomMove = () => {
