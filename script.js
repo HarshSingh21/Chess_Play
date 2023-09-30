@@ -6,8 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     let moveCount = 1; 
     let userColor = 'w'; 
     
-    
-    
 
  // random move 
     const makeRandomMove = () => {
